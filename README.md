@@ -5,4 +5,4 @@ In this code, I will use CSS and Responsive Design to code a piano and learn mor
 
 ## Here's a preview of what I will build
 
-![Uploading image.png…]()
+![Uploading image.jpg]()

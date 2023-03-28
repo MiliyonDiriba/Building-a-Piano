@@ -5,6 +5,7 @@ html {
     box-sizing: inherit;
   }
   #piano {
+    border-radius: 10px;
     position:relative;
     background-color:#00471b;
     width:992px;

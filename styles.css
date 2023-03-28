@@ -5,6 +5,8 @@ html {
     box-sizing: inherit;
   }
   #piano {
+    border-radius: 10px;
+    position:relative;
     background-color:#00471b;
     width:992px;
     height:290px;
@@ -24,6 +26,7 @@ html {
     height:175px;
     margin: 2px;
     float: left;
+    border-radius: 0 0 3px 3px;
   }
   .key.black--key::after {
     background-color: #1d1e22;
@@ -32,4 +35,10 @@ html {
     left: -18px;
     width: 32px;
     height: 100px;
+    border-radius: 0 0 3px 3px;
+  }
+  .logo {
+    width: 200px;
+    position: absolute;
+    top: 23px;
   }
